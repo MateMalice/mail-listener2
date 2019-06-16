@@ -144,4 +144,4 @@ class MailListener extends EventEmitter {
     });
   }
 };
-module.exports.MailListener = MailListener;
+module.exports = MailListener;
