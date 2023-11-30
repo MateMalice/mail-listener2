@@ -3,7 +3,7 @@
   "version": "2.1.2",
   "description": "Mail listener library for node.js. Get notification when new email arrived.",
   "dependencies": {
-    "async": "^3.2.4",
+    "async": "^3.2.5",
     "imap": "^0.8.19",
     "mailparser": "^3.6.3"
   },
